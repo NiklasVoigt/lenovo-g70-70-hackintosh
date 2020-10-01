@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<root>
+<item>
+<name>Change Keys for G70-70 (Niklas Voigt)</name>
+<identifier>private.swap_keys_niklas_voigt</identifer>
+<autogen>__KeyToKey__ KeyCode::BACKQUOTE, KeyCode::DANISH_DOLLAR</autogen>
+<autogen>__KeyToKey__ KeyCode::DANISH_DOLLAR, KeyCode::BACKQUOTE</autogen>
+<autogen>__KeyToKey__ KeyCode::7, ModifierFlag::OPTION_R, KeyCode::8, ModifierFlag::OPTION_R</autogen>
+<autogen>__KeyToKey__ KeyCode::0, ModifierFlag::OPTION_R, KeyCode::9, ModifierFlag::OPTION_R</autogen>
+<autogen>__KeyToKey__ KeyCode::8, ModifierFlag::OPTION_R, KeyCode::5, ModifierFlag::OPTION_R</autogen>
+<autogen>__KeyToKey__ KeyCode::9, ModifierFlag::OPTION_R, KeyCode::6, ModifierFlag::OPTION_R</autogen>
+<autogen>__KeyToKey__ KeyCode::7, ModifierFlag::OPTION_L, KeyCode::8, ModifierFlag::OPTION_L</autogen>
+<autogen>__KeyToKey__ KeyCode::0, ModifierFlag::OPTION_L, KeyCode::9, ModifierFlag::OPTION_L</autogen>
+<autogen>__KeyToKey__ KeyCode::8, ModifierFlag::OPTION_L, KeyCode::5, ModifierFlag::OPTION_L</autogen>
+<autogen>__KeyToKey__ KeyCode::9, ModifierFlag::OPTION_L, KeyCode::6, ModifierFlag::OPTION_L</autogen>
+<autogen>__KeyToKey__ KeyCode::MINUS, ModifierFlag::OPTION_R, KeyCode::BRACKET_RIGHT</autogen>
+<autogen>__KeyToKey__ KeyCode::OPTION_R, KeyCode::OPTION_L</autogen>
+<autogen>__KeyToKey__ KeyCode::MINUS, ModifierFlag::OPTION_L, KeyCode::I, ModifierFlag::OPTION_L</autogen>
+</item>
+</root>

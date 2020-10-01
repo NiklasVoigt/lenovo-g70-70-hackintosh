@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<root>
+
+<item>
+<name>[G70-70] Swap zirkumflex and less-than keys</name>
+<identifier>private.swap_zirkumflex_and_less_than</identifer>
+<autogen>__KeyToKey__ KeyCode::BACKQUOTE, KeyCode::DANISH_DOLLAR</autogen>
+<autogen>__KeyToKey__ KeyCode::DANISH_DOLLAR, KeyCode::BACKQUOTE</autogen>
+</item>
+
+
+
+
+</root>
