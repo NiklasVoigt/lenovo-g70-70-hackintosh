@@ -1,5 +1,5 @@
 # Lenovo G70-70 Hackintosh
-My hackintosh project with Lenovo G70-70 (macOS Mojave 10.14)
+My hackintosh project with Lenovo G70-70 (macOS Mojave 10.14.6)
 
 **Configuration:**
 Lenovo G70-70 · i3 4005U · HD4400 · 8GB · 512GB SSD
