@@ -1,4 +1,4 @@
-# lenovo-g70-70-hackintosh
+# Lenovo G70-70 Hackintosh
 My hackintosh project with Lenovo G70-70 (macOS Mojave 10.14)
 
 **Configuration:**
